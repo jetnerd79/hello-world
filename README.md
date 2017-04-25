@@ -1,2 +1,2 @@
 # hello-world
-This is my hello world repository.  A bit embarrassing, I must admit.
+Hello everybody!  This is my embarrassing hello world repository.  Please don't judge me.
